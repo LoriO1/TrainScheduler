@@ -1,2 +1,2 @@
 # TrainScheduler
-Firebase, jQuery, 
+Train scheduler using Firebase, jQuery, Javascript, HTML, CSS
